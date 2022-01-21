@@ -19,12 +19,6 @@ gi.require_version('Gtk', '3.0')
 from gi.repository import Gtk, Gdk, GObject, GLib
 
 try:
-    from gi.repository import Pango as pango
-except:
-        logging.error("Pango not found")
-        sys.exit(1)
-
-try:
     from gi.repository import Gtk-4.0 as gtk4
 except:
     logging.error("Gtk-4.0 not found")

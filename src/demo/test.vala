@@ -9,6 +9,7 @@ using GLib;
 using GObject.Introspection as introspection;
 
 const version = "0.1.0";
+
 const round = Math.round;
 const floor = Math.floor;
 const abs = Math.abs;
@@ -26,3 +27,19 @@ enum _Elements {
     ABSTRACT_BODY,
 };
 
+enum _EncoderType {
+    ABSOLUTE,
+    RELATIVE,
+};
+
+enum _faceplateBacklightState {
+    NORMAL,
+    INVERT,
+    BLINK,
+};
+
+enum faceplateBacklightIntensity {
+    LOW,
+    MEDIUM,
+    HIGH,
+};
