@@ -1,4 +1,3 @@
-
 using Cairo as cairo;
 
 using Gtk;
