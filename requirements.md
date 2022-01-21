@@ -2,9 +2,18 @@ restructured text extension? and notifications crash the editor.  anyways, on to
 
 
 
+dbus
+gtk4
+glib
+gobject
+
+testing
+docker
+alpine
 
 
+!working 
+nodejs
 
-busybox
-ash -> bash > zsh
+
 
