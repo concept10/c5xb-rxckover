@@ -1,5 +1,3 @@
-## this is c5xb
+## this is c5xb-rxckover
 
-{{ page.title }}
-
-https://concept10.github.io/c5xb/docker
+https://concept10.github.io/c5xb-rxckover/docker
