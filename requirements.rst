@@ -1,0 +1,2 @@
+
+reStructuredText_reader = 'restructuredtext'
