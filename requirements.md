@@ -21,4 +21,8 @@ alpine
 nodejs
 
 
+build
+meson
+pkg-config
+
 https://pkgs.alpinelinux.org/contents?branch=edge&name=gtk4.0&arch=x86_64&repo=community

@@ -1,0 +1,13 @@
+Build started at 2022-01-21T15:10:35.121896
+Main binary: /usr/bin/python3
+Build Options: -Dbuildtype=debug
+Python system: Linux
+The Meson build system
+Version: 0.56.2
+Source dir: /home/outlaw-marine/Projects/NextGeneration/c5xb-rxckover
+Build dir: /home/outlaw-marine/Projects/NextGeneration/c5xb-rxckover/builddir
+Build type: native build
+
+meson.build:2:35: ERROR: Expecting eof got colon.
+project('io.outlawd.rxckover.c5xb'):
+                                   ^
