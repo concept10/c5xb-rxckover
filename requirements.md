@@ -7,7 +7,12 @@ gtk4
 glib
 gobject
 
+
+
 testing
+libgee
+gir
+
 docker
 alpine
 
