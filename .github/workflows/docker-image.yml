@@ -10,7 +10,7 @@ jobs:
 
   build:
 
-    runs-on: alpine-3.14
+    runs-on: alpine
 
     steps:
     - uses: actions/checkout@v2
