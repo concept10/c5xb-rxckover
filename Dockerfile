@@ -12,8 +12,10 @@ RUN apk add --no-cache \
         build-base \
         gtk+3.0-dev \
         pkgconfig \
-    apk add -- no-cache \
-        gtk4.0 gtk4.0-dev
+
+
+##    apk add -- no-cache \
+##        gtk4.0 gtk4.0-dev
 
     
 RUN mkdir -p /etc/sudoers.d/ && \
